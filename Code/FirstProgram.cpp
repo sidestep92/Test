@@ -43,5 +43,5 @@ void functiontwo()
 void functionthree()
 
 {
-    cout << "You have not been a good person! You disobeyed our requests!" << endl;
+    cout << "You have not followed instructions! You disobeyed our requests! Death is upon you" << endl;
 }
